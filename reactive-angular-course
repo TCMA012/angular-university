@@ -1,0 +1,23 @@
+https://github.com/angular-university/reactive-angular-course
+https://angular-university.io/course/reactive-angular-course
+
+Review of an application written in imperative style
+Refactoring into stateless reactive style, understanding the benefits
+Smart vs Presentational Components
+Stateless Observable Services
+The shareReplay Operator
+Stateless UI updates (without state management)
+Introduction to RxJs Subjects and BehaviorSubject
+Decoupled component communication using shared observable services
+Using Observables to have components interact at different levels of the component tree
+Error Handling and error messages in reactive style
+Loading Indicators in reactive style
+Improving user experience with lightweight RxJs stores
+Optimistic UI updates
+Managing User Authentication state with plain RxJs
+Local vs Global Services
+Master Detail with cached master table in reactive style
+The Single Data Observable Pattern: Avoiding nested ng-component tags
+Refactoring a reactive application to OnPush change detection
+Conclusion and key takeaways
+

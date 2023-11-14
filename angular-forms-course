@@ -1,0 +1,44 @@
+https://angular-university.io/course/angular-forms-course
+https://github.com/angular-university/angular-forms-course
+
+start the sample application backend:
+
+npm run server
+
+This is a small Node REST API server
+
+
+
+To run the frontend part of our code, we will use the Angular CLI:
+
+npm start 
+
+The application is visible at port 4200: 
+http://localhost:4200
+
+
+
+Introduction to the Angular Forms module
+Angular Material form components
+Template-driven Forms - how does ngModel work?
+Typical Form validation rules
+Form field validation error messages
+Using ngModel for one-way binding and bi-directional data binding
+Understanding ngModelOptions in detail
+Template-driven form custom validator
+How to use the FormBuilder service
+Refactoring of a form from template-driven to a reactive form
+Comparison between template-driven and reactive forms - when to use each and why
+Why are they called reactive forms? Understanding the multiple Observables available
+How to reset and set new values in a reactive form
+Development of a complex form using reactive forms
+How to use all types of commonly used form controls: normal inputs, text areas, radio buttons, checkboxes, calendars, auto-completion, etc.
+The formGroup and formControlName, and formControl directives
+Reactive forms custom validators - multi-field validation
+Backend validation of a form field using async validators
+Dependent fields - how to enable or disable some form fields depending on the values of other fields
+Pre-saving a form draft
+Building a multi-step form with Angular Material
+Reusable nested forms (an address form)
+Custom File Upload Form Control
+Form Arrays
