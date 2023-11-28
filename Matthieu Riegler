@@ -1,0 +1,27 @@
+Matthieu Riegler, aka. Jean Mèche, has a special status in Angular. In terms of commit count, he is the top contributor, even before the members of the Angular team and the very busy Angular Robot.
+
+It is safe to say that he understands what's happening in the Angular codebase.
+
+https://riegler.fr/blog/2023-11-02-v17-change-detection
+https://jeanmeche.github.io/angular-change-detection/
+https://www.rx-angular.io/
+
+https://angularindepth.com/posts/1053/everything-you-need-to-know-about-change-detection-in-angular
+https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+https://medium.com/@antoniopk/angular-change-detection-explained-169aea595423
+
+What is the http link for "Everything you need to know about change detection in Angular"?
+https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f
+does not seem to work.
+This seem to work:
+https://angularindepth.com/posts/1053/everything-you-need-to-know-about-change-detection-in-angular
+
+
+
+
+https://riegler.fr/blog/2023-10-05-defer-part1
+https://riegler.fr/blog/2023-10-08-defer-part2
+
+https://stackblitz.com/edit/angular-at?file=src%2Fmain.ts
+
+https://riegler.fr/blog/2023-10-13-v17-builders
